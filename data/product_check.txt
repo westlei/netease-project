@@ -1,0 +1,281 @@
+productId
+0             1
+20001         1
+28001         1
+41001         1
+41002         2
+             ..
+1209732813    1
+1209739885    1
+1209740806    1
+1209740828    1
+1209934821    1
+Name: productId, Length: 1580, dtype: int64
+*************************************
+productName
+法语零起点至初级精品课A1上     1
+"词源法"托福词汇精讲         1
+(漫画版）职场注意力修炼        1
+.NET/C#初中级项目实战      1
+0-8岁双语宝宝培养整体解决方案    1
+                   ..
+黑客入门教程              1
+黑客攻防入门学习课程          1
+黑搜7天打造爆款，实操全新玩法     1
+齐论PS视觉设计一年制专属指导     1
+齐论拼多多新手运营快速打造爆款     1
+Name: productName, Length: 1576, dtype: int64
+*************************************
+description
+--本套课程出发点为核心培训+进阶篇（关键帧/四点跟踪/摄像机动画/时间特效/镜头层次/绿屏抠像/表达式）+高级插件篇（Particula /Form /OpticalFlare /Element 3D /Plexus /Stardust /Colorista/ Looks 3 / Finessee 3）+ 大师篇（文本动画 /天空替换 /2.5D图像动画 /实战案例）\n\n--Adobe After Effects CC 简称AECC，这是一款专业的视频处理和特效制作软件，我们在电视和电影上看到的特效和后期制作多是由Adobe After Effects CC完成，Adobe After Effects CC 是目前最新版，新增了功能，同时优化了性能。它借鉴了许多优秀软件的的成功之处，将视频特效合成上升到了新的高度：Photoshop 中层的引入 ，使AE可以对多层的合成图像进行控制，制作出天衣无缝的合成效果； 关键帧、路径的引入，使我们对控制高级的二维动画游刃有余；高效的视频处理系统，确保了高质量视频的输出；令人眼花缭乱的特技系统使AE能实现使用者的一 切创意；AE同样保留有Adobe优秀的软件相互兼容性。\n\n---课程配套素材：https://pan.baidu.com/s/1ghb9AHt 密码：73xu    1
+0基础变产品、运营、营销全能                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              1
+0基础学员也能快速打造爆款                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               1
+0基础的插画软件入门课程                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                1
+1.  导述：\nAI人工智能时代的到来、安防行业技术在IT技术架构的基础上，开始快速的向计算机网络、云计算、大数据、信息安全、AI人工智能等新兴技术领域全面渗透。值此AI人工智能安防开始全面落地应用之际，81天教育团队在行业巨头华为、海康、大华、宇视、天地伟业；以及新兴人工智能企业商汤、旷世、依图、云从等厂商技术人员的大力支持下，历时2年开发出业内首套‘AI人工智能安防’在线视频精品课程，希望能为安防信息化行业人员及大学毕业生提供相关帮助；并获取些许回报，以鼓励我们后续开发更多的精品课程！\n\n2.  课程说明：\n以行业岗位技术需求为导向，以AI人工智能+安防应用为主体架构，满足未来5～10年行业技术发展的需要。课程具有系统、精炼、精致 [ 视频采用高清实物、形象图元、以及3D场景来构建 ] 与实用的特点。\n\n3.  学员福利：\n√  赠送素材：赠送华为、海康等IT厂家产品图元素材库；以及系统化的综合方案包；\n√  加群答疑：可加入课程答疑群，参与学员交流；\n√  专业支持：专业工程师在线解惑答疑。\n\n4.  版权申明：\n原创不易，可谓一步一滴汗水！任何单位或个人，未经授权，请勿一账号多用，用作商业目的的团体培训。\n\n5.  联系方式：\n咨询QQ：1323528297                1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ..
+高效率+自动化                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     1
+高效率，零基础学习                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   1
+高效的职场利器                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     1
+高级语法篇                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       1
+（1）精讲编程考点，分析历年真题！\n（2）购买后有效期延长到考试前！赠送“电子版”指定教材。\n\n一、课程主讲\n  张成叔，安徽“专升本”辅导届“顶级大师”。\n  “专升本”辅导15年，累计听课20万人次。首本“专升本”指定教材主编(2005年)，“专升本”辅导“云课堂”的首创者(2013年)。\n二、课程特点\n  严格按照考试大纲要求组织和讲解课程，“理论+操作”，没有学不会的！\n  确保“轻松进考场”+“快乐上本科”！  \n三、课程内容及发布计划\n  共7章，33课时。\n  第1章：课程导论，3课时。\n  第2章：程序设计的基础，6课时。\n  第3章：语句与程序结构，6课时。\n  第4章：顺序结构程序设计，1课时。\n  第5章：分支结构程序设计，3课时。\n  第6章：循环结构程序设计，4课时。\n  第7章：数组及其应用，3课时。\n  第8章：常用算法的应用，7课时。\n四、课程学习建议\n  1、边听编写，大胆尝试。\n  2、需要电子版教材，请微信联系：7153265。                                                                                                                1
+Name: description, Length: 1558, dtype: int64
+*************************************
+provider
+ 撩课-王顺子            2
+ 跟牟老师学ArcGIS       1
+101个手机摄影场景         4
+1351点TV一生无忧在线教育    2
+51美术网              1
+                  ..
+黑马UI               1
+黛黛学堂               1
+齐论教育               8
+齐论视觉学院             2
+龙醒教育               1
+Name: provider, Length: 712, dtype: int64
+*************************************
+score
+2.0      1
+2.1      1
+2.9      1
+3.0      9
+3.1      1
+3.4      2
+3.5      1
+3.6      5
+3.7      3
+3.8      3
+3.9     11
+4.0     15
+4.1     15
+4.2     29
+4.3     52
+4.4    251
+4.5    205
+4.6    210
+4.7    237
+4.8    265
+4.9    247
+5.0     64
+Name: score, dtype: int64
+*************************************
+scoreLevel
+-1    469
+ 0      5
+ 1     94
+ 2    484
+ 3    576
+Name: scoreLevel, dtype: int64
+*************************************
+learnerCount
+1.0         2
+2.0         6
+3.0         8
+4.0         9
+5.0         5
+           ..
+226008.0    1
+235905.0    1
+284429.0    1
+590132.0    1
+743911.0    1
+Name: learnerCount, Length: 944, dtype: int64
+*************************************
+imgUrl
+//edu-image.nosdn.127.net/0046448781A07D3709DB253021A90008.jpg?imageView&thumbnail=450y250&quality=100      1
+//edu-image.nosdn.127.net/004A917E97B8A6C94638B556AC155983.jpg?imageView&thumbnail=448x248&quality=100      1
+//edu-image.nosdn.127.net/00801d9f33544606a4c9fa736b43c741.jpg?imageView&quality=100&crop=0_0_620_351       1
+//edu-image.nosdn.127.net/00FA15590C5CC8E81932C3C7C85C35CB.png?imageView&thumbnail=960y600&quality=100      1
+//edu-image.nosdn.127.net/01447B534E8B50718E26CCB296953377.jpg?imageView&thumbnail=900y500&quality=100      1
+                                                                                                           ..
+//nos.netease.com/edu-image/E82704C0B690D6A2C9AE50E266829FD4.jpg?imageView&thumbnail=450y250&quality=100    2
+//nos.netease.com/edu-image/F579B7DA321FBCDCA2F82451EFD100BE.png?imageView&thumbnail=450y250&quality=100    1
+//nos.netease.com/edu-image/F7531B51D5260AE4444934B3AEF499DB.png?imageView&thumbnail=370y258&quality=100    1
+//nos.netease.com/edu-image/FEEB7E8691E06E90FB787F7ABEA63567.jpg?imageView&thumbnail=450y250&quality=100    1
+//nos.netease.com/edu-image/nos/jpg/2017/2/6/852e2142-b2fc-4c17-9c05-46308081cbd9.jpg                       1
+Name: imgUrl, Length: 1572, dtype: int64
+*************************************
+bigImgUrl
+//edu-image.nosdn.127.net/0046448781A07D3709DB253021A90008.jpg?imageView&thumbnail=450y250&quality=100                1
+//edu-image.nosdn.127.net/004A917E97B8A6C94638B556AC155983.jpg?imageView&thumbnail=448x248&quality=100                1
+//edu-image.nosdn.127.net/0067dd4b307a4791a414c8111a0e6ba7.png?imageView&quality=100&crop=0_0_1888_1062               1
+//edu-image.nosdn.127.net/006d89f3904e4931884427bed23f65f9.png?imageView&quality=100&crop=513_1_683_384               1
+//edu-image.nosdn.127.net/00801d9f33544606a4c9fa736b43c741.jpg?imageView&quality=100&crop=0_0_620_351                 1
+                                                                                                                     ..
+//nos.netease.com/edu-image/EA4AB48B8A33B200A83CD1BF7B0B1960-1444372096768?imageView&thumbnail=450y250&quality=100    1
+//nos.netease.com/edu-image/F579B7DA321FBCDCA2F82451EFD100BE.png?imageView&thumbnail=450y250&quality=100              1
+//nos.netease.com/edu-image/F7531B51D5260AE4444934B3AEF499DB.png?imageView&thumbnail=370y258&quality=100              1
+//nos.netease.com/edu-image/FEEB7E8691E06E90FB787F7ABEA63567.jpg?imageView&thumbnail=450y250&quality=100              1
+//nos.netease.com/edu-image/nos/jpg/2017/2/6/852e2142-b2fc-4c17-9c05-46308081cbd9.jpg                                 1
+Name: bigImgUrl, Length: 1571, dtype: int64
+*************************************
+originalPrice
+0.00        235
+0.01          3
+0.10          2
+0.60          1
+0.66          2
+           ... 
+9800.00       1
+9999.00       1
+10000.00      1
+12980.00      1
+99999.99      4
+Name: originalPrice, Length: 270, dtype: int64
+*************************************
+discountPrice
+-1.0       1622
+ 9.8          1
+ 9.9          7
+ 29.9         2
+ 30.0         2
+           ... 
+ 798.0        1
+ 1299.0       2
+ 1680.0       1
+ 2580.0       1
+ 8000.0       1
+Name: discountPrice, Length: 62, dtype: int64
+*************************************
+displayType
+0    1628
+Name: displayType, dtype: int64
+*************************************
+targetUrl
+//mooc.study.163.com/smartSpec/detail/1001106002.htm    1
+//mooc.study.163.com/smartSpec/detail/1001227001.htm    1
+//mooc.study.163.com/smartSpec/detail/1001352005.htm    1
+//mooc.study.163.com/smartSpec/detail/1001360001.htm    1
+//mooc.study.163.com/smartSpec/detail/1001405003.htm    1
+                                                       ..
+//study.163.com/series/76002.htm                        2
+//study.163.com/series/77001.htm                        1
+//study.163.com/series/78002.htm                        1
+//study.163.com/series/88001.htm                        2
+//study.163.com/topics/houboshi                         1
+Name: targetUrl, Length: 1580, dtype: int64
+*************************************
+searchItemType
+0     1628
+16       1
+25     178
+30      34
+Name: searchItemType, dtype: int64
+*************************************
+appType
+0.0    1840
+Name: appType, dtype: int64
+*************************************
+productType
+2    1628
+3     212
+4       1
+Name: productType, dtype: int64
+*************************************
+actionScene
+SCENE_UNKNOWN      1519
+st_mob_position      29
+Name: actionScene, dtype: int64
+*************************************
+isTopGrade
+False    1841
+Name: isTopGrade, dtype: int64
+*************************************
+appImgUrl
+http://edu-image.nosdn.127.net/0063AD9D52326F238C1A34F43897AF84.jpg?imageView&thumbnail=1242y570&quality=100    3
+http://edu-image.nosdn.127.net/00B85B464CBDD39FC1EDD9ED06A65DD2.jpg?imageView&thumbnail=1242y570&quality=100    1
+http://edu-image.nosdn.127.net/0246B945C82E2E304DFA647580EC46EB.jpg?imageView&thumbnail=1242y570&quality=100    1
+http://edu-image.nosdn.127.net/0268A2DD97123B4D9D8D42C2363C8436.png?imageView&thumbnail=1242y570&quality=100    4
+http://edu-image.nosdn.127.net/028cbbf88cd1484cbb2b39363adbc958.jpg?imageView&quality=100                       1
+                                                                                                               ..
+http://edu-image.nosdn.127.net/fd5fd138394e46438434c79653b47685.jpg?imageView&quality=100                       1
+http://edu-image.nosdn.127.net/fda2787c6eff4725a0b6987d59839a4a.jpg?imageView&quality=100                       2
+http://edu-image.nosdn.127.net/fe52afca214349cbb980caf3cc978048.jpg?imageView&quality=100                       2
+http://edu-image.nosdn.127.net/fef69db0075a4b55a940ff36238d6f53.jpg?imageView&quality=100                       1
+http://edu-image.nosdn.127.net/ff322f32212b432986c955c09a1c0a1b.jpg?imageView&quality=100                       2
+Name: appImgUrl, Length: 363, dtype: int64
+*************************************
+webImgUrl
+http://edu-image.nosdn.127.net/01ffd9bb11b442d69fc5fd8d08f06176.jpg?imageView&quality=100                       1
+http://edu-image.nosdn.127.net/02081043078390DA77E06809EF630BF4.jpg?imageView&thumbnail=980y340&quality=100     1
+http://edu-image.nosdn.127.net/024817B4C61458126DAB83A038D0C518.jpg?imageView&thumbnail=1130y400&quality=100    1
+http://edu-image.nosdn.127.net/0445B1ACD21326EEDF65571A0A7FEBF5.jpg?imageView&thumbnail=1205y400&quality=100    2
+http://edu-image.nosdn.127.net/056D0C33CAC24CAA7583DFFA782F0B0E.jpg?imageView&thumbnail=980y340&quality=100     1
+                                                                                                               ..
+http://edu-image.nosdn.127.net/f98bf21b4d284ef38ff3e95adb095453.png?imageView&quality=100                       1
+http://edu-image.nosdn.127.net/f9ffd957d72743dea239089bcd3561c4.jpg?imageView&quality=100                       1
+http://edu-image.nosdn.127.net/fc39f7e0c12c4b2fae7a1b3275dad747.png?imageView&quality=100                       1
+http://edu-image.nosdn.127.net/fc82733ea0534a34bcbbe67ad7abf8f8.jpg?imageView&quality=100                       1
+http://edu-image.nosdn.127.net/fd99bc83fdb04c318743e4cff5442ee1.jpg?imageView&quality=100                       2
+Name: webImgUrl, Length: 335, dtype: int64
+*************************************
+webImgColor
+#000000    18
+#001146     1
+#002059     2
+#0049b8     1
+#004eff     1
+           ..
+#ffe5d3     1
+#ffec02     1
+#fff        2
+#fff63f     2
+#ffffff     2
+Name: webImgColor, Length: 262, dtype: int64
+*************************************
+bannerTitle
+2019·PHP+React全栈课      2
+25课通识阅读：带你打破知识边界       1
+3D软件：C4D零基础到商业实操       1
+AI前奏必备-数据结构【C语言版】      1
+APP实战：同时搞定iOS/安卓/微信    1
+                      ..
+项目管理：10天精通Project      1
+项目管理：揭秘网易一线成功经验        1
+高效减脂：夏日减肥大作战           4
+高效学习：职场人升值必备           1
+高效记忆：快速记过万英语单词         1
+Name: bannerTitle, Length: 161, dtype: int64
+*************************************
+vipContentType
+-1.0    1840
+Name: vipContentType, dtype: int64
+*************************************
+categoryId
+400000001322001    10
+400000001322002    21
+400000001324003    15
+400000001326002     7
+400000001328002    11
+                   ..
+480000003134053     6
+480000003134054    12
+480000003135001    33
+480000003435001     3
+480000003436001     6
+Name: categoryId, Length: 100, dtype: int64
+*************************************
+topGrade
+False    1841
+Name: topGrade, dtype: int64
+*************************************
